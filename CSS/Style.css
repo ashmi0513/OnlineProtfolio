@@ -1,0 +1,147 @@
+/*****************Tag Selectors*************/
+body{
+  color: #66BFBF;
+  font-family: 'Poppins', sans-serif;
+}
+
+/*hr{
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 8px;
+  margin-left:45%;
+  margin-right: 45%;
+}*/
+
+/*****************Class Selectors*************/
+.top-container{
+  background-color: #EAF6F6;
+  width:100%;
+}
+.intro-heading1{
+  margin-left: 40%;
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 40px;
+}
+
+.intro-heading2{
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  margin-left: 41%;
+  font-size: 30px;
+}
+
+.top-cloud{
+  height:50px;
+  width:50px;
+  margin-left: 70%;
+  padding-top:5px;
+}
+
+.bottom-cloud{
+  height: 50px;
+  width:50px;
+  margin-left: 30%;
+}
+
+.Mountains{
+  height: 150px;
+  width:60%;
+  margin-left:20%
+}
+
+.MyProfileImage{
+  margin-left: 40%;
+  height: 150px;
+  width: 150px;
+}
+.Hello{
+  margin-left: 45%;
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 30px;
+}
+
+.intro-paragraph{
+  text-align: center;
+}
+
+.middle-container-myskills{
+  background-color: #EAF6F6;
+}
+
+.Skills-class{
+  margin-left:45%;
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 40px;
+}
+.Web-Coding-Image{
+  width:200px;
+  height:200px;
+  float:left;
+}
+
+.DevOps-Image{
+  width:200px;
+  height:200px;
+  float:right;
+}
+
+.Skills-Heading{
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-size: 30px;
+  padding-top: 5px;
+  text-align: center;
+}
+
+.Skills-paragraph{
+  text-align: center;
+}
+
+.GetInTouchClass{
+  margin-left:37%;
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 40px;
+}
+.ContactHeading{
+  text-align: center;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+.ContactPara{
+  text-align: center;
+}
+
+.btn{
+  border-radius: 8px;
+  background-color:#18978F;
+  color:#EAF6F6;
+  padding:5px;
+  font-size: 15px;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  border-color:#18978F;
+}
+
+.btn-ContactMe{
+  position: absolute;
+  margin-left: 37%;
+}
+
+.btn-HireMe{
+  position: absolute;
+  margin-left: 48%;
+}
+
+.btn:hover{
+  background-color: #54BAB9;
+  border-color:#54BAB9;
+}
+
+.footer{
+  background-color: #54BAB9;
+}
+.copyright-para{
+  color:#EAF6F6;
+  font-size: 15px;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  margin-left:37%;
+  padding-bottom: 15px;
+}
+/*****************ID Selectors*************/
